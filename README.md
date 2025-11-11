@@ -9,6 +9,9 @@ cd graphql_assessment
 npm install
 npx prisma generate
 
+⚙️ DOCKER SETUP
+docker-compose up
+
 3️⃣ Configure environment variables
 
 # PostgreSQL connection
